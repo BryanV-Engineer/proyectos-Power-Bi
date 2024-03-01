@@ -5,7 +5,7 @@ Este es un portafolio de algunos proyectos trabajados en Power Bi para el análi
 ## Autor -
 **BRYAN MATTOS VALENCIA**
 
-* [LinkedIn] (www.linkedin.com/in/bmvalencia/)
+* [LinkedIn](www.linkedin.com/in/bmvalencia/)
 
 ## Instalación
 Estos proyectos solo requieren que tengas instalado Power Bi en tu computadora. Luego es descargar los archivos, abrir el archivo con la extensión ".pbix" y revisarlos.
